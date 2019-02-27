@@ -1,0 +1,4 @@
+7ea12357a9ceae347444188addbad75d  CO_15.h5
+d6b8971143f7c571d765c4fd46f90088  FINE_20_early_stopping_90.h5
+121a112808397af1a42293e903bf2efd  dict_c.pickle
+917a43da41723d83852e648f125c68e8  dict_f_20_early_stopping_90.pickle
